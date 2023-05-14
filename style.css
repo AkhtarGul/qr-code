@@ -9,7 +9,7 @@
     --font-size-15: 15px;
     --font-weight-400: 400;
     --font-weight-700: 700;
-    --font-family: [Outfit](https: //fonts.google.com/specimen/Outfit);
+    --font-family: 'outfit',  sans-serif;;
     }
 
     * {
@@ -43,6 +43,7 @@
 
     h2 {
         margin-bottom: 20px;
+        color: var(--dark-blue)
     }
 
     img {
